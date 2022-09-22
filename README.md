@@ -1,2 +1,2 @@
-# Airport-simulator-in-C++
+# Airport simulator in <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 A program that simulates a flight with the number of passengers that the user types, based on queues, the program goes through several queues and dequeues simulating various situations, for example buying the ticket, getting on the plane, getting off the plane or taking a taxi to your hotel,  all this with visual aid in ASCII.
